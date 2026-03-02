@@ -1,0 +1,13 @@
+# Requested exclusions
+1 Notes/Build a Large Language Model (From Scratch) (Sebastian Raschka) (Z-Library).pdf
+LLM-from-scratch/
+LLMs-from-scratch/
+
+# Local model checkpoints (too large for normal GitHub push)
+2 Code/5 Pre-training/gpt2-small-124M.pth
+2 Code/5 Pre-training/model.pt
+
+# Local/system artifacts
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
