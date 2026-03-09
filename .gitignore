@@ -17,8 +17,10 @@ LLMs-from-scratch/
 
 # Chapter-specific local training artifacts
 2 Code/6 Fine-tuning 1/sms_spam_collection/
+2 Code/6 Fine-tuning 1/GPT_classifier_weights.pth
 2 Code/7 Fine-tuning 2/GPT_instruct_weights.pth
 2 Code/7 Fine-tuning 2/instruction-data.json
+2 Code/7 Fine-tuning 2/instructions-data.json
 2 Code/7 Fine-tuning 2/ultrachat_1000.json
 
 # Local/system artifacts
