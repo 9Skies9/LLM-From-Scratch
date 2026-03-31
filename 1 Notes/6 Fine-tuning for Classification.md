@@ -4,7 +4,7 @@ This chapter's fine tuning will simply be done towards classification, and the s
 
 Basically... can you imagine in 2026 a person is still building a spam classification service with an LLM? That's what we are doing in this chapter...
 
-![[110 Learning/112 CS/112.3 AI/112.3.2 NLP/3 LLM From Scratch/1 Notes/attachments/Build a Large Language Model (From Scratch) (Sebastian Raschka) (Z-Library) 25.jpg|500]]
+![[Build a Large Language Model (From Scratch) (Sebastian Raschka) (Z-Library) 25.jpg|500]]
 
 [[Build a Large Language Model (From Scratch) (Sebastian Raschka) (Z-Library).pdf#page=193&rect=98,299,423,501|Build a Large Language Model (From Scratch) (Sebastian Raschka) (Z-Library), p.171]]
 
